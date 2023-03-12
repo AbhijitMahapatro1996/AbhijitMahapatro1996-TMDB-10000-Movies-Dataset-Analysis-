@@ -21,7 +21,11 @@ First, I tried to find out the best movies from the data set for which I have to
 3. Movies released after 2010 are more popular than the movies released in 1970-80.
 
  ![](./Charts/Movies_70.png). ![](./Charts/movies_latest.png)
+
 4. Friday is the most preferred day of the week for the filmmaker to release their movie because the weekend will provide the necessary initial boost but most of the successful movies are released on Wednesday these 2 information is common across the data set.
-![](./Charts/distribution%20of%20movies%20based%20on%20release%20day_70s.png). ![](./Charts/Distribution%20of%20movies%20on%20their%20release%20day.png)
-![](./Charts/Distribution%20of%20movies%20on%20their%20release%20day_bollywood.png)
-![](./Charts/Distribution%20of%20movies%20on%20their%20release%20day_latest.png)
+
+!['Distribution of 70s movies based on release day'](./Charts/distribution%20of%20movies%20based%20on%20release%20day_70s.png). ![''Distribution of movies based on release day''](./Charts/Distribution%20of%20movies%20on%20their%20release%20day.png)
+!['Distribution of Bollywood movies based on release day'](./Charts/Distribution%20of%20movies%20on%20their%20release%20day_bollywood.png)
+!['''Distribution of english movies based on release day'](./Charts/Distribution%20of%20movies%20on%20their%20release%20day_latest.png)
+
+You can find much more insigts apart from the above, Please give a star if u like the analysis.
