@@ -28,4 +28,5 @@ First, I tried to find out the best movies from the data set for which I have to
 !['Distribution of Bollywood movies based on release day'](./Charts/Distribution%20of%20movies%20on%20their%20release%20day_bollywood.png)
 !['''Distribution of english movies based on release day'](./Charts/Distribution%20of%20movies%20on%20their%20release%20day_latest.png)
 
-You can find much more insigts apart from the above, Please give a star if u like the analysis.
+You can find much more insigts from the notebook, please visit the code and if u like the analysis please give a star.
+Thank you.
